@@ -1,7 +1,7 @@
 # Samuele Ferri
 
 <p align="center">
-<img src="https://github.com/samuelexferri/coding/blob/master/images/coding.png" width="200">
+<img src="https://github.com/samuelexferri/coding/blob/master/images/coding.png" width="400">
 </p>
 
 Collection of coding competitions
