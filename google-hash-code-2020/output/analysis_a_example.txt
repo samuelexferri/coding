@@ -1,0 +1,3 @@
+0 - NumBooks: 5, SignUp: 2, BxD: 2, DifferentBooks: 0 ScoreHeuristic: 0.0
+1 - NumBooks: 4, SignUp: 3, BxD: 1, DifferentBooks: 0 ScoreHeuristic: 0.0
+END
