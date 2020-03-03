@@ -19,7 +19,7 @@ object Main {
     val debugMode = true
     val analysisMode = false
 
-    val path: String = "C:\\Users\\samuelexferri\\IdeaProjects\\Hash Code (2020)\\src\\"
+    val path: String = "C:\\Users\\samuelexferri\\IdeaProjects\\Google Hash Code (2020)\\src\\"
 
 
     ////////////////////////////////// INPUT ////////////////////////////
@@ -288,6 +288,8 @@ object Main {
       var RES_libraries: ArrayBuffer[Library] = ArrayBuffer[Library]()
 
       var inserted_books = ArrayBuffer[Int]() // Performance: use "Int" instead of "Book"
+      inserted_books.clear() // Clear between different input
+
       var deadline: Int = numdays
 
       i = 0 // Library
@@ -300,32 +302,30 @@ object Main {
 
           // Books and different books sorted before (Reverse)
 
-          // Avoid duplicate in a library (second while) but continue to send books after the deadline
-          inserted_books.clear()
-
           j = 0
-          var k = 0
 
-          // Priority to different books (Deadline controls removed)
-          while (j < libraries(i).differentBooks.size) {
+          // Number of books to send by this library before deadline
+          var k = deadline * libraries(i).booksxday.asInstanceOf[Long] // Use Long insted of Int (Upper bound)
+
+          // Priority to different books
+          while (j < libraries(i).differentBooks.size && k > 0) {
 
             if (!inserted_books.contains(libraries(i).differentBooks(j).id)) {
               libraries(i).booksToSend.addOne(libraries(i).differentBooks(j))
               inserted_books.addOne(libraries(i).differentBooks(j).id)
-              k += 1
+              k -= 1
             }
             j += 1
           }
 
           j = 0
 
-          // Continue to add books, after the deadline they will be ignored
-          while (j < libraries(i).books.size) {
+          while (j < libraries(i).books.size && k > 0) {
 
             if (!inserted_books.contains(libraries(i).books(j).id)) {
               libraries(i).booksToSend.addOne(libraries(i).books(j))
               inserted_books.addOne(libraries(i).books(j).id)
-              k += 1
+              k -= 1
             }
             j += 1
           }
@@ -361,10 +361,12 @@ object Main {
 
       writer.close
 
-      // Score estimation (Excess)
+      // Score estimation
       var score_estimation = 0
       RES_libraries.foreach(l =>
-        score_estimation += (hashmapScoreMean.getOrElse(l.ID, 0.0) * l.numbooks).toInt
+        l.booksToSend.foreach(b =>
+          score_estimation += score.apply(b.id)
+        )
       )
 
       println("Score estimation: " + score_estimation)
