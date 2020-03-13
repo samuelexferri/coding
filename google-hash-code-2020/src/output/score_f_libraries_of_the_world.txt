@@ -1,0 +1,18 @@
+204 - NumBooks: 971, SignUp: 31, BxD: 6, DifferentBooks: 971, Deadline: 669, ScoreHeuristic: 687787.3363552624
+210 - NumBooks: 803, SignUp: 30, BxD: 8, DifferentBooks: 794, Deadline: 639, ScoreHeuristic: 560074.767307594
+694 - NumBooks: 949, SignUp: 35, BxD: 6, DifferentBooks: 932, Deadline: 604, ScoreHeuristic: 480838.91683687246
+719 - NumBooks: 975, SignUp: 41, BxD: 8, DifferentBooks: 952, Deadline: 563, ScoreHeuristic: 379674.0397485585
+595 - NumBooks: 815, SignUp: 37, BxD: 6, DifferentBooks: 787, Deadline: 526, ScoreHeuristic: 332514.184144037
+901 - NumBooks: 952, SignUp: 45, BxD: 9, DifferentBooks: 909, Deadline: 481, ScoreHeuristic: 312755.69311154354
+774 - NumBooks: 954, SignUp: 45, BxD: 5, DifferentBooks: 899, Deadline: 436, ScoreHeuristic: 312310.92887703225
+618 - NumBooks: 856, SignUp: 40, BxD: 10, DifferentBooks: 806, Deadline: 396, ScoreHeuristic: 301162.58169084904
+369 - NumBooks: 756, SignUp: 37, BxD: 7, DifferentBooks: 698, Deadline: 359, ScoreHeuristic: 287575.614080588
+422 - NumBooks: 984, SignUp: 48, BxD: 7, DifferentBooks: 919, Deadline: 311, ScoreHeuristic: 286984.7167772606
+312 - NumBooks: 805, SignUp: 40, BxD: 7, DifferentBooks: 721, Deadline: 271, ScoreHeuristic: 286647.60595127294
+622 - NumBooks: 922, SignUp: 49, BxD: 7, DifferentBooks: 840, Deadline: 222, ScoreHeuristic: 263883.329131037
+672 - NumBooks: 992, SignUp: 51, BxD: 9, DifferentBooks: 900, Deadline: 171, ScoreHeuristic: 257615.08158492926
+828 - NumBooks: 782, SignUp: 42, BxD: 8, DifferentBooks: 697, Deadline: 129, ScoreHeuristic: 253304.32509947784
+454 - NumBooks: 574, SignUp: 32, BxD: 8, DifferentBooks: 506, Deadline: 97, ScoreHeuristic: 233929.78133158726
+209 - NumBooks: 788, SignUp: 42, BxD: 8, DifferentBooks: 676, Deadline: 55, ScoreHeuristic: 231365.07834980288
+147 - NumBooks: 906, SignUp: 51, BxD: 5, DifferentBooks: 813, Deadline: 4, ScoreHeuristic: 227561.86045978247
+END

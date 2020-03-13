@@ -2,8 +2,6 @@
 
 ### RESULTS
 
-Scoreboards: 3324th in the World, 163th in Italy
-
 Online round:
 A 	17
 B 	5,793,200
@@ -12,6 +10,8 @@ D 	4,109,365
 E 	3,542,404
 F 	3,542,404
 TOT	22,470,857
+
+Scoreboards: 3324th in the World, 163th in Italy
 
 Extended round:
 A 	21
