@@ -6,10 +6,6 @@
 
 Collection of coding competitions
 
-[samuelexferri.com](https://samuelexferri.com)
-
-[samuelexferri.github.io](https://samuelexferri.github.io)
-
 ![alt text](https://img.shields.io/badge/Language-English-infomrmational?style=for-the-badge)
 
 ## Competitions
@@ -23,6 +19,9 @@ Collection of coding competitions
 ### Team
 
 -   **Samuele Ferri**: [Site](https://samuelexferri.com), [GitHub](https://github.com/samuelexferri)
+-   **Lorenzo Conti**
+-   **Steven Gotti**
+-   **Fabio Sangregorio**
 
 ## Version
 
