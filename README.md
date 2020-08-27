@@ -12,16 +12,17 @@ Collection of coding competitions
 
 ### Google Hash Code
 
--   **Google Hash Code (2020)** (_Scala_): Pratice problem, Online and extended round
+- **Google Hash Code (2020)** (_Scala_): Pratice problem, Online and extended round
+- **Reply Code Challenge (2020)** (_Scala_): Online round
 
 ## Authors
 
 ### Team
 
--   **Samuele Ferri**: [Site](https://samuelexferri.com), [GitHub](https://github.com/samuelexferri)
--   **Lorenzo Conti**
--   **Steven Gotti**
--   **Fabio Sangregorio**
+- **Samuele Ferri**: [Site](https://samuelexferri.com), [GitHub](https://github.com/samuelexferri)
+- **Fabio Sangregorio**
+- **Lorenzo Conti**
+- **Steven Gotti**
 
 ## Version
 
