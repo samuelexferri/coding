@@ -1,4 +1,4 @@
-# Samuele Ferri
+# Coding
 
 <p align="center">
 <img src="https://github.com/samuelexferri/coding/blob/master/images/coding.png" width="400">
