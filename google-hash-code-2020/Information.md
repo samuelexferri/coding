@@ -60,7 +60,7 @@ NumBooks:
  AVG: 15
  MAX: 20
  MIN: 10
-BxD:\
+BxD:\\
  AVG: 49511
  MAX: 99998
  MIN: 210
