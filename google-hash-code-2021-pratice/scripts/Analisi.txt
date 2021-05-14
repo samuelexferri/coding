@@ -1,0 +1,19 @@
+a_example
+Numero ingredienti unici 7
+Persone totali 12 - Pizze totali 5 - 41 %
+
+b_little_bit_of_everything
+Numero ingredienti unici 10
+Persone totali 550 - Pizze totali 500 - 90 %
+
+c_many_ingredients
+Numero ingredienti unici 10000
+Persone totali 4965 - Pizze totali 10000 - 201 %
+
+d_many_pizzas
+Numero ingredienti unici 100
+Persone totali 25343 - Pizze totali 100000 - 394 %
+
+e_many_teams
+Numero ingredienti unici 100
+Persone totali 346409 - Pizze totali 100000 - 28 %

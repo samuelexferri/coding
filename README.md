@@ -10,10 +10,19 @@ Collection of coding competitions
 
 ## Competitions
 
+### Download Innovation: IT Conference & Festival
+
+-   **Download Hackathon (2020)** (_Flutter_)
+
 ### Google Hash Code
 
--   **Google Hash Code (2020)** (_Scala_): Pratice problem, Online and extended round
+-   **Google Hash Code (2020)** (_Scala_): Pratice problem, Online round, Extended round
+-   **Google Hash Code (2021)** (_Python_): Pratice problem, Online round
+
+### Reply Code Challenge
+
 -   **Reply Code Challenge (2020)** (_Scala_): Online round
+-   **Reply Code Challenge (2021)** (_Python_): Online round
 
 ## Authors
 
@@ -23,6 +32,7 @@ Collection of coding competitions
 -   **Fabio Sangregorio**
 -   **Lorenzo Conti**
 -   **Steven Gotti**
+-   **Giorgio Bertolotti**
 
 ## Version
 
